@@ -1,4 +1,4 @@
-# Trabajo Práctico Final – Laboratorio II
+# Trabajo Práctico Final – Laboratorio de software II
 
 Este proyecto corresponde al **Trabajo Práctico Final de la materia Laboratorio II**, donde se integran y aplican de manera práctica los principales contenidos vistos a lo largo de la cursada, haciendo foco en el **manejo de bases de datos con PHP y SQL**.
 
