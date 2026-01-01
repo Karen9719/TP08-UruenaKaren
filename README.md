@@ -65,7 +65,7 @@ Todas las consultas se realizaron mediante **sentencias preparadas**, evitando i
 
 ---
 
-### 🛒 Funcionalidades adicionales
+### Funcionalidades adicionales
 - Menú dinámico por categorías utilizando variables `GET`
 - Buscador que muestra resultados en la misma página
 - Implementación de un **carrito de compras** utilizando sesiones
